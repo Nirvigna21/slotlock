@@ -120,6 +120,5 @@ Visit `http://localhost:5173`
 - Docker Compose setup for local development
 - CI pipeline (GitHub Actions)
 
-## Author
 
 Built by Nirvigna.
